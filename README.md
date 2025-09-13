@@ -22,10 +22,10 @@ El trabajo se divide en dos partes principales:
 - **`README.md`**  
   Archivo de documentación general del repositorio.  
 
-- **`Reporte.pdf`**   
+- **`Reporte Tarea 1.pdf`**   
   Documento en PDF con el reporte de trabajo. En este se explican las decisiones metodológicas y los resultados obtenidos en la parte práctica.  
 
-- **`Teoria.pdf`**   
+- **`Tarea_1_Introducción_a_la_ciencia_de_datos.pdf.pdf`**   
   Documento en PDF generado en LaTeX con el desarrollo y resolución de los problemas teóricos de la tarea.  
 
 ---

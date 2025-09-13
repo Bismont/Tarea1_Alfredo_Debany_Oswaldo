@@ -359,6 +359,14 @@ fig.update_layout(
 fig.show()
 
 
+### One-hot encoding by species ###
+
+species_encoded = pd.get_dummies(df_data_interpol_species['Species'], prefix='Species') * 1
+df_encoded = pd.concat([df_data_interpol_species, species_encoded], axis=1)
+
+print(df_encoded)
+
+
 ### Standarization ###
 
 # Standarization of SER and POE Site codes

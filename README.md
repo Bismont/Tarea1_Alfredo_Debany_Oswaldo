@@ -1,5 +1,5 @@
 # Tarea 1 - Ciencia de Datos  
-**Autores:** Alfredo Bistrain, Debany Henandez, Oswaldo  
+**Autores:** Alfredo Bistrain, Debany Henandez, Oswaldo Bueno 
 
 Este repositorio contiene la entrega de la **Tarea 1** de la materia de Introducción a la Ciencia de Datos.  
 El trabajo se divide en dos partes principales:  
